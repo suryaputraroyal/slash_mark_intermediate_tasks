@@ -7,7 +7,7 @@ Creating a web-based facial authentication system involves several components, i
 Here's a basic structure for our project:
 
 ```
-facial_authentication/
+WEB-BASED facial_authentication/
 │
 ├── app.py
 ├── templates/
